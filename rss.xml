@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Joseph Ehler - UX/UI Designer]]></title>
+        <description><![CDATA[Joseph Ehler - UX/UI Designer]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 28 Nov 2015 23:26:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Joseph Ehler - UX|UI DesignerHOME - Joseph Ehler - UX|UI Designer]]></title>
+            <description><![CDATA[<article><h1>Joseph Ehler - UX|UI DesignerHOME - Joseph Ehler - UX|UI Designer</h1><img src="http://i0.wp.com/uxjehler.com/wp-content/uploads/2015/10/about_me.png?resize=932%2C1095"></article>]]></description>
+            <link>http://uxjehler.com/</link>
+            <guid isPermaLink="false">76503538-7722-4e14-8dc2-19b05c28d921</guid>
+            <pubDate>Sat, 28 Nov 2015 23:26:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
