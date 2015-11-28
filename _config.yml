@@ -1,6 +1,6 @@
 name: UXJEHLER
 favicon: null
-layout_spectrum: 0.55016
+layout_spectrum: 0.60367
 typography_spectrum: 0.58756
 title: Joseph Ehler - UX/UI Designer
 cta:
@@ -22,7 +22,7 @@ color:
     - '#e4677d'
     - '#d3444c'
     - '#aa8893'
-  brandStrength: 0
+  brandStrength: 1
   lightness: 0.3717733030207455
   saturation: 0.5946014449000359
   rhythmicContrast: 0.7659712468739599
